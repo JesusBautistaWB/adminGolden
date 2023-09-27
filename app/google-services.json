@@ -1,0 +1,152 @@
+{
+  "project_info": {
+    "project_number": "785255506098",
+    "firebase_url": "https://goapp-be9f2.firebaseio.com",
+    "project_id": "goapp-be9f2",
+    "storage_bucket": "goapp-be9f2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:785255506098:android:10e1b910f4bc8e6e12e9ab",
+        "android_client_info": {
+          "package_name": "com.intabux.go"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "785255506098-cnr5sgmd500o4sp8tovk5r8o8q3l3l2o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.intabux.go",
+            "certificate_hash": "98afe9fca12486b63eef1d60f76280b2b7a41a9e"
+          }
+        },
+        {
+          "client_id": "785255506098-v46tgd1iv6u1dcgrou46nouni40rdl8d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQCDX7TZqq3FKWio0IfHms6SbnJXrALyc"
+        },
+        {
+          "current_key": "AIzaSyB6ACqckuAgzj283rPmmemomLqL7VEWdrY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "785255506098-v46tgd1iv6u1dcgrou46nouni40rdl8d.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "785255506098-d11leqb984t5ug9ipbjnkcrbo4b59jf3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "mx.intabux.Go-"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:785255506098:android:327ef5c9b988ee3012e9ab",
+        "android_client_info": {
+          "package_name": "com.intabux.gobussines"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "785255506098-6o5pr2pnq0qfj89emltd6vlpn324rhha.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.intabux.gobussines",
+            "certificate_hash": "98afe9fca12486b63eef1d60f76280b2b7a41a9e"
+          }
+        },
+        {
+          "client_id": "785255506098-v46tgd1iv6u1dcgrou46nouni40rdl8d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQCDX7TZqq3FKWio0IfHms6SbnJXrALyc"
+        },
+        {
+          "current_key": "AIzaSyB6ACqckuAgzj283rPmmemomLqL7VEWdrY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "785255506098-v46tgd1iv6u1dcgrou46nouni40rdl8d.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "785255506098-d11leqb984t5ug9ipbjnkcrbo4b59jf3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "mx.intabux.Go-"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:785255506098:android:d9f150f0fb610bf612e9ab",
+        "android_client_info": {
+          "package_name": "com.intabux.godriver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "785255506098-k4g60uhhfc3alkfg3mb4so2hkpkuo57b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.intabux.godriver",
+            "certificate_hash": "98afe9fca12486b63eef1d60f76280b2b7a41a9e"
+          }
+        },
+        {
+          "client_id": "785255506098-v46tgd1iv6u1dcgrou46nouni40rdl8d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQCDX7TZqq3FKWio0IfHms6SbnJXrALyc"
+        },
+        {
+          "current_key": "AIzaSyB6ACqckuAgzj283rPmmemomLqL7VEWdrY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "785255506098-v46tgd1iv6u1dcgrou46nouni40rdl8d.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "785255506098-d11leqb984t5ug9ipbjnkcrbo4b59jf3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "mx.intabux.Go-"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
